@@ -1,0 +1,49 @@
+# Entorno virtual
+venv/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de datos
+*.csv
+*.xlsx
+*.feather
+*.parquet
+*.pkl
+*.pickle
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y salidas
+*.log
+*.out
+*.tmp
+
+# Archivos de configuración personalizados
+config_local.py
+
+# Archivos de compilación/build
+build/
+dist/
+*.egg-info/
