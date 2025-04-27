@@ -80,7 +80,7 @@ Visualizaciones interactivas:
 
 1. Clona el repositorio:
 ```bash
-git clone [URL del repositorio]
+git clone [https://github.com/Fabriciogg8/missing_data.git]
 ```
 
 2. Instala las dependencias:
@@ -97,10 +97,15 @@ jupyter notebook datos_faltantes.ipynb
 * Librerías principales:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 missingno
+
 upsetplot
 
 ### 📈 Aplicaciones
@@ -122,5 +127,7 @@ Este análisis es útil para:
 ¡Las contribuciones son bienvenidas! Por favor abre un issue o envía un pull request.
 
 ### 📧 Contacto
-Fabricio González - fgonzalezguasque@gmail.com
-🔗 LinkedIn: [https://www.linkedin.com/in/fabriciogonzalezguasque/]
+Fabricio González  
+📧 fgonzalezguasque@gmail.com  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/fabriciogonzalezguasque/)
